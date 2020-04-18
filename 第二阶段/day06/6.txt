@@ -1,0 +1,60 @@
+前情回顾：
+
+1. 正则表达式扩展
+   re.I  re.A  re.M   re.S
+
+2. 数据库
+
+    1 什么是数据库
+    2 数据库管理系统 （mysql  sqlite）
+    3 关系型数据库 （表  字段   记录  数据元素）
+    4 MySQL数据库的特征 (有开源，关系型，安装)
+
+3. 数据库操作
+
+   create  database [db]  charset=utf8;
+   show databases;
+   use [db];
+   select database();
+   drop database [db];
+
+4. 数据表操作
+
+   show tables;
+   desc  [tb];
+   create table  [tb] (col type ,....)
+   drop table [tb];
+
+   数据类型：   数字    tinyint  int  float  decimal()
+              字符串   char  varchar()   blob    text  enum   set
+
+   字段约束：   primary key      auto_increment
+              unsigned
+              not null
+              default [val]
+
+5.  插入数据
+
+    insert  into  [tb]  (col1,col2...)  values  (v1,v2),(v1,v2)...;
+
+
+练习1： 使用book表完成 （查找练习）
+
+1. 查找 30多元的图书
+2. 查找中国教育出版社出版的图书
+3. 查找老舍写的，中国文学出版社出版的
+4. 查找备注不为空的
+5. 查找价格超过60的，只看书名和价格
+6. 查找鲁迅写的或者茅盾写的
+
+练习2: 使用book表完成
+1. 将呐喊的价格改为45
+2. 增加一个字段,出版日期,类型为date,放在price的后面
+3. 修改所有老舍的作品,出版日期为2016-10-1
+4. 修改所有中国文学出版社的图书,出版日期为2018-1-1,但是老舍的不要改
+5. 修改价格字段数据类型为 decimal(5,2)
+6. 查找鲁迅写的,2017-1-1以后出版的图书
+7. 删除所有价格在65元以上的图书
+
+
+

@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52eacbfb-74b2-4568-8484-d1cfe343ce24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="month01" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YFNuVUTSuOcdQbMWq9mWnuTjaM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowDebug.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/day18/review_month01/p2" />
+      <recent name="$PROJECT_DIR$/day18" />
+      <recent name="$PROJECT_DIR$/day16" />
+      <recent name="$PROJECT_DIR$/day16/day15_exercise" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day15/day14_exercise" />
+      <recent name="$PROJECT_DIR$/day12/day11_exercise" />
+      <recent name="$PROJECT_DIR$/day10/day09_exercise" />
+      <recent name="$PROJECT_DIR$/day08/day07_exercise" />
+      <recent name="$PROJECT_DIR$/day06/day05_exercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.dal">
+    <configuration name="code01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18/review_month01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/review_month01/code01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18/review_month01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/review_month01/code02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="code03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18/review_month01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/review_month01/code03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/house_information_manager_system" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/house_information_manager_system/dal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exercise02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="month01" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/day18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/day18/exercise02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.dal" />
+        <item itemvalue="Python.code03" />
+        <item itemvalue="Python.code02" />
+        <item itemvalue="Python.code01" />
+        <item itemvalue="Python.exercise02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52eacbfb-74b2-4568-8484-d1cfe343ce24" name="Default Changelist" comment="" />
+      <created>1582534604604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582534604604</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="322" width="604" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583140954343">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="662" y="322" width="604" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1583140954343" />
+    <state x="1110" y="320" width="374" height="562" key="#com.intellij.ide.util.MemberChooser" timestamp="1584083027355">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1110" y="320" width="374" height="562" key="#com.intellij.ide.util.MemberChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584083027355" />
+    <state x="796" y="436" width="425" height="233" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1584673893305">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="796" y="436" width="425" height="233" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584673893305" />
+    <state x="740" y="349" width="497" height="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583112346086">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state x="740" y="349" width="497" height="284" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/67.27.1853.930@67.27.1853.930" timestamp="1583112346086" />
+    <state x="167" y="125" width="1013" height="495" key="DiffContextDialog" timestamp="1582535599990">
+      <screen x="67" y="27" width="1213" height="693" />
+    </state>
+    <state x="167" y="125" width="1013" height="495" key="DiffContextDialog/67.27.1213.693@67.27.1213.693" timestamp="1582535599990" />
+    <state x="661" y="111" width="424" height="484" key="FileChooserDialogImpl" timestamp="1583195966532">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state x="456" y="81" width="424" height="484" key="FileChooserDialogImpl/67.27.1213.595@67.27.1213.595" timestamp="1582592812348" />
+    <state x="661" y="111" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.930@67.27.1853.930" timestamp="1583195966532" />
+    <state width="1826" height="396" key="GridCell.Tab.0.bottom" timestamp="1584682914161">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1170" height="387" key="GridCell.Tab.0.bottom/67.27.1197.579@67.27.1197.579" timestamp="1582597198733" />
+    <state width="1253" height="281" key="GridCell.Tab.0.bottom/67.27.1213.595@67.27.1213.595" timestamp="1582603338620" />
+    <state width="1186" height="291" key="GridCell.Tab.0.bottom/67.27.1213.693@67.27.1213.693" timestamp="1582601688202" />
+    <state width="1808" height="355" key="GridCell.Tab.0.bottom/67.27.1835.912@67.27.1835.912" timestamp="1584523781456" />
+    <state width="1808" height="333" key="GridCell.Tab.0.bottom/67.27.1835.928@67.27.1835.928" timestamp="1582861136883" />
+    <state width="1826" height="396" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584682914161" />
+    <state width="1826" height="109" key="GridCell.Tab.0.bottom/67.27.1853.909@67.27.1853.909" timestamp="1582607703716" />
+    <state width="1826" height="700" key="GridCell.Tab.0.bottom/67.27.1853.930@67.27.1853.930" timestamp="1584324933684" />
+    <state width="868" height="553" key="GridCell.Tab.0.bottom/67.27.828.912@67.27.828.912" timestamp="1582967637027" />
+    <state width="1826" height="396" key="GridCell.Tab.0.center" timestamp="1584682914159">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1170" height="387" key="GridCell.Tab.0.center/67.27.1197.579@67.27.1197.579" timestamp="1582597198733" />
+    <state width="1253" height="281" key="GridCell.Tab.0.center/67.27.1213.595@67.27.1213.595" timestamp="1582603338620" />
+    <state width="1186" height="291" key="GridCell.Tab.0.center/67.27.1213.693@67.27.1213.693" timestamp="1582601688201" />
+    <state width="1808" height="355" key="GridCell.Tab.0.center/67.27.1835.912@67.27.1835.912" timestamp="1584523781455" />
+    <state width="1808" height="333" key="GridCell.Tab.0.center/67.27.1835.928@67.27.1835.928" timestamp="1582861136882" />
+    <state width="1826" height="396" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584682914159" />
+    <state width="1826" height="109" key="GridCell.Tab.0.center/67.27.1853.909@67.27.1853.909" timestamp="1582607703715" />
+    <state width="1826" height="700" key="GridCell.Tab.0.center/67.27.1853.930@67.27.1853.930" timestamp="1584324933684" />
+    <state width="868" height="553" key="GridCell.Tab.0.center/67.27.828.912@67.27.828.912" timestamp="1582967637027" />
+    <state width="1826" height="396" key="GridCell.Tab.0.left" timestamp="1584682914158">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1170" height="387" key="GridCell.Tab.0.left/67.27.1197.579@67.27.1197.579" timestamp="1582597198733" />
+    <state width="1253" height="281" key="GridCell.Tab.0.left/67.27.1213.595@67.27.1213.595" timestamp="1582603338620" />
+    <state width="1186" height="291" key="GridCell.Tab.0.left/67.27.1213.693@67.27.1213.693" timestamp="1582601688200" />
+    <state width="1808" height="355" key="GridCell.Tab.0.left/67.27.1835.912@67.27.1835.912" timestamp="1584523781455" />
+    <state width="1808" height="333" key="GridCell.Tab.0.left/67.27.1835.928@67.27.1835.928" timestamp="1582861136882" />
+    <state width="1826" height="396" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584682914158" />
+    <state width="1826" height="109" key="GridCell.Tab.0.left/67.27.1853.909@67.27.1853.909" timestamp="1582607703714" />
+    <state width="1826" height="700" key="GridCell.Tab.0.left/67.27.1853.930@67.27.1853.930" timestamp="1584324933683" />
+    <state width="868" height="553" key="GridCell.Tab.0.left/67.27.828.912@67.27.828.912" timestamp="1582967637026" />
+    <state width="1826" height="396" key="GridCell.Tab.0.right" timestamp="1584682914160">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1170" height="387" key="GridCell.Tab.0.right/67.27.1197.579@67.27.1197.579" timestamp="1582597198733" />
+    <state width="1253" height="281" key="GridCell.Tab.0.right/67.27.1213.595@67.27.1213.595" timestamp="1582603338620" />
+    <state width="1186" height="291" key="GridCell.Tab.0.right/67.27.1213.693@67.27.1213.693" timestamp="1582601688201" />
+    <state width="1808" height="355" key="GridCell.Tab.0.right/67.27.1835.912@67.27.1835.912" timestamp="1584523781455" />
+    <state width="1808" height="333" key="GridCell.Tab.0.right/67.27.1835.928@67.27.1835.928" timestamp="1582861136883" />
+    <state width="1826" height="396" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584682914160" />
+    <state width="1826" height="109" key="GridCell.Tab.0.right/67.27.1853.909@67.27.1853.909" timestamp="1582607703716" />
+    <state width="1826" height="700" key="GridCell.Tab.0.right/67.27.1853.930@67.27.1853.930" timestamp="1584324933684" />
+    <state width="868" height="553" key="GridCell.Tab.0.right/67.27.828.912@67.27.828.912" timestamp="1582967637027" />
+    <state width="1826" height="670" key="GridCell.Tab.1.bottom" timestamp="1584674839398">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1808" height="46" key="GridCell.Tab.1.bottom/67.27.1835.912@67.27.1835.912" timestamp="1582689148084" />
+    <state width="1826" height="670" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584674839398" />
+    <state width="1893" height="417" key="GridCell.Tab.1.bottom/67.27.1853.930@67.27.1853.930" timestamp="1582871857900" />
+    <state width="1826" height="670" key="GridCell.Tab.1.center" timestamp="1584674839396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1808" height="46" key="GridCell.Tab.1.center/67.27.1835.912@67.27.1835.912" timestamp="1582689148083" />
+    <state width="1826" height="670" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584674839396" />
+    <state width="1893" height="417" key="GridCell.Tab.1.center/67.27.1853.930@67.27.1853.930" timestamp="1582871857899" />
+    <state width="1826" height="670" key="GridCell.Tab.1.left" timestamp="1584674839396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1808" height="46" key="GridCell.Tab.1.left/67.27.1835.912@67.27.1835.912" timestamp="1582689148083" />
+    <state width="1826" height="670" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584674839396" />
+    <state width="1893" height="417" key="GridCell.Tab.1.left/67.27.1853.930@67.27.1853.930" timestamp="1582871857899" />
+    <state width="1826" height="670" key="GridCell.Tab.1.right" timestamp="1584674839397">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1808" height="46" key="GridCell.Tab.1.right/67.27.1835.912@67.27.1835.912" timestamp="1582689148084" />
+    <state width="1826" height="670" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584674839397" />
+    <state width="1893" height="417" key="GridCell.Tab.1.right/67.27.1853.930@67.27.1853.930" timestamp="1582871857900" />
+    <state x="357" y="163" key="SettingsEditor" timestamp="1582607794851">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="357" y="163" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1582607794851" />
+    <state x="67" y="27" width="1843" height="930" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1583543344931">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state x="67" y="27" width="1843" height="930" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.930@67.27.1853.930" timestamp="1583543344931" />
+    <state x="167" y="125" width="1653" height="855" key="dock-window-1" timestamp="1584674743240">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="dock-window-1/67.27.1853.1053@67.27.1853.1053" timestamp="1584674743240" />
+    <state x="167" y="125" width="1653" height="855" key="dock-window-2" timestamp="1584674743240">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="dock-window-2/67.27.1853.1053@67.27.1853.1053" timestamp="1584674743240" />
+    <state x="428" y="27" width="1027" height="1051" key="search.everywhere.popup" timestamp="1584676559211">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="303" y="39" width="672" height="678" key="search.everywhere.popup/67.27.1213.595@67.27.1213.595" timestamp="1582594993099" />
+    <state x="303" y="41" key="search.everywhere.popup/67.27.1213.693@67.27.1213.693" timestamp="1582594916796" />
+    <state x="428" y="27" width="1027" height="1051" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584676559211" />
+    <state x="428" y="27" width="1027" height="928" key="search.everywhere.popup/67.27.1853.930@67.27.1853.930" timestamp="1583207173171" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day11/demo05.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day11/exercise03.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day12/demo01.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day14/exercise01.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day16/demo01.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day16/demo06.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day18/demo03.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day18/demo04.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/day18/exercise02.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

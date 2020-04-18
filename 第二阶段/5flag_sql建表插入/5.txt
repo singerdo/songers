@@ -1,0 +1,23 @@
+前情回顾
+
+1. os模块
+
+   getsize()  listdir()  remove()
+
+2. 元字符
+
+   *  +  ?  {3,5}  []  \b
+
+3. 正则表达式匹配规则
+
+   匹配特殊字符 ：  \$
+   贪婪模式：    +   --》  +？
+   分组：   （）
+
+4.  re模块
+
+    findall()
+    finditer()
+    search()
+
+    * match    group()  groupdict()

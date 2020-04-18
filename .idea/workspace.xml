@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8677fef8-d7cd-4b6f-b636-a13dba966574" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Learning_share" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZYoZz0DwRvOIL3fYk66VNZtKF6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/a" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/第二阶段/day17" />
+      <recent name="$PROJECT_DIR$/第二阶段/day08" />
+      <recent name="D:\编程学习文件" />
+      <recent name="$PROJECT_DIR$/第二阶段/day08/day10" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.text">
+    <configuration name="chatroom_client" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="编程学习文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chatroom_client.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chatroom_sever" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="编程学习文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chatroom_sever.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dict_my" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="编程学习文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dict_my.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="编程学习文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="text" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="编程学习文件" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.text" />
+        <item itemvalue="Python.dict_my" />
+        <item itemvalue="Python.chatroom_sever" />
+        <item itemvalue="Python.testt" />
+        <item itemvalue="Python.chatroom_client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8677fef8-d7cd-4b6f-b636-a13dba966574" name="Default Changelist" comment="" />
+      <created>1585025447087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585025447087</updated>
+      <workItem from="1585025448229" duration="117000" />
+      <workItem from="1585029272464" duration="11853000" />
+      <workItem from="1585043943525" duration="663000" />
+      <workItem from="1585055217177" duration="7070000" />
+      <workItem from="1585065586005" duration="2090000" />
+      <workItem from="1585096395719" duration="6936000" />
+      <workItem from="1585147041279" duration="5543000" />
+      <workItem from="1585154101959" duration="4692000" />
+      <workItem from="1585184300169" duration="8360000" />
+      <workItem from="1585192900487" duration="3000" />
+      <workItem from="1585194141716" duration="56000" />
+      <workItem from="1585194400776" duration="42000" />
+      <workItem from="1585194909696" duration="3303000" />
+      <workItem from="1585203712229" duration="339000" />
+      <workItem from="1585204185288" duration="2435000" />
+      <workItem from="1585209773952" duration="515000" />
+      <workItem from="1585212972687" duration="3899000" />
+      <workItem from="1585229203793" duration="1530000" />
+      <workItem from="1585233159938" duration="2756000" />
+      <workItem from="1585236476641" duration="1513000" />
+      <workItem from="1585238858504" duration="2762000" />
+      <workItem from="1585270058667" duration="4311000" />
+      <workItem from="1585288226574" duration="831000" />
+      <workItem from="1585303672743" duration="5000" />
+      <workItem from="1585321036251" duration="10000" />
+      <workItem from="1585359315007" duration="433000" />
+      <workItem from="1585360322504" duration="2053000" />
+      <workItem from="1585364719317" duration="413000" />
+      <workItem from="1585375735803" duration="1196000" />
+      <workItem from="1585378359129" duration="1577000" />
+      <workItem from="1585384948674" duration="482000" />
+      <workItem from="1585392226401" duration="3684000" />
+      <workItem from="1585449086984" duration="1868000" />
+      <workItem from="1585465508152" duration="827000" />
+      <workItem from="1585469924404" duration="1021000" />
+      <workItem from="1585474376789" duration="1263000" />
+      <workItem from="1585488518802" duration="370000" />
+      <workItem from="1585492826402" duration="148000" />
+      <workItem from="1585493539388" duration="260000" />
+      <workItem from="1585641082848" duration="444000" />
+      <workItem from="1585641916450" duration="90000" />
+      <workItem from="1585645335215" duration="825000" />
+      <workItem from="1585658833587" duration="611000" />
+      <workItem from="1585667759897" duration="655000" />
+      <workItem from="1585734698151" duration="641000" />
+      <workItem from="1585735425306" duration="181000" />
+      <workItem from="1585804980615" duration="7000" />
+      <workItem from="1585819959154" duration="2637000" />
+      <workItem from="1585823434682" duration="273000" />
+      <workItem from="1585836485368" duration="2926000" />
+      <workItem from="1585873655816" duration="1087000" />
+      <workItem from="1585884422432" duration="639000" />
+      <workItem from="1585886329662" duration="238000" />
+      <workItem from="1586047611798" duration="6229000" />
+      <workItem from="1586084836335" duration="3454000" />
+      <workItem from="1586090954315" duration="2353000" />
+      <workItem from="1586164595988" duration="92000" />
+      <workItem from="1586164690756" duration="3823000" />
+      <workItem from="1586228317994" duration="701000" />
+      <workItem from="1586251585393" duration="333000" />
+      <workItem from="1586251919621" duration="12000" />
+      <workItem from="1586252129938" duration="44000" />
+      <workItem from="1586252205879" duration="64000" />
+      <workItem from="1586254679726" duration="492000" />
+      <workItem from="1586271098404" duration="315000" />
+      <workItem from="1586271543685" duration="6000" />
+      <workItem from="1586302951042" duration="7251000" />
+      <workItem from="1586311322525" duration="3421000" />
+      <workItem from="1586316830469" duration="10808000" />
+      <workItem from="1586333753101" duration="5900000" />
+      <workItem from="1586422673431" duration="5000" />
+      <workItem from="1586436652465" duration="5260000" />
+      <workItem from="1586445120924" duration="2287000" />
+      <workItem from="1586447826094" duration="10000" />
+      <workItem from="1586484246800" duration="3858000" />
+      <workItem from="1586565971290" duration="177000" />
+      <workItem from="1586566399549" duration="286000" />
+      <workItem from="1586569225409" duration="18000" />
+      <workItem from="1586572516902" duration="4194000" />
+      <workItem from="1586577476666" duration="462000" />
+      <workItem from="1586578347934" duration="123000" />
+      <workItem from="1586579865583" duration="1682000" />
+      <workItem from="1586587011447" duration="3086000" />
+      <workItem from="1586592825770" duration="627000" />
+      <workItem from="1586655238037" duration="316000" />
+      <workItem from="1586660611786" duration="6513000" />
+      <workItem from="1586703265556" duration="779000" />
+      <workItem from="1586706509968" duration="1363000" />
+      <workItem from="1586740213757" duration="84000" />
+      <workItem from="1586746987297" duration="784000" />
+      <workItem from="1586764265360" duration="1167000" />
+      <workItem from="1586793068871" duration="458000" />
+      <workItem from="1586826343967" duration="1591000" />
+      <workItem from="1586846775825" duration="292000" />
+      <workItem from="1586872596751" duration="3472000" />
+      <workItem from="1586877269022" duration="2415000" />
+      <workItem from="1586911222665" duration="328000" />
+      <workItem from="1586911565996" duration="1000" />
+      <workItem from="1587032113168" duration="11000" />
+      <workItem from="1587083478841" duration="3459000" />
+      <workItem from="1587088417832" duration="262000" />
+      <workItem from="1587089371278" duration="2668000" />
+      <workItem from="1587104109306" duration="1542000" />
+      <workItem from="1587134485068" duration="1109000" />
+      <workItem from="1587189944669" duration="224000" />
+      <workItem from="1587190715585" duration="818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#SQL_Dialects" timestamp="1585364829010">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#SQL_Dialects/0.0.1536.864@0.0.1536.864" timestamp="1585364829010" />
+    <state x="516" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585735602448">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="516" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1585735602448" />
+    <state x="683" y="294" width="608" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587036681567">
+      <screen x="67" y="27" width="1853" height="980" />
+    </state>
+    <state x="511" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1586322100588" />
+    <state x="683" y="294" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.980@67.27.1853.980" timestamp="1587036681567" />
+    <state x="387" y="280" width="608" height="406" key="#com.intellij.fileTypes.FileTypeChooser/67.27.962.929@67.27.962.929" timestamp="1587035535776" />
+    <state x="659" y="91" width="658" height="850" key="#day13test1" timestamp="1586314825820">
+      <screen x="67" y="27" width="1853" height="980" />
+    </state>
+    <state x="659" y="91" width="658" height="850" key="#day13test1/67.27.1853.980@67.27.1853.980" timestamp="1586314825820" />
+    <state x="477" y="57" key="#day3test1" timestamp="1585032804625">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="57" key="#day3test1/0.0.1536.864@0.0.1536.864" timestamp="1585032804625" />
+    <state x="659" y="91" width="658" height="850" key="#exercise_1" timestamp="1586522697166">
+      <screen x="67" y="27" width="1853" height="980" />
+    </state>
+    <state x="659" y="91" width="658" height="850" key="#exercise_1/67.27.1853.980@67.27.1853.980" timestamp="1586522697166" />
+    <state x="239" y="82" width="658" height="850" key="#mysql1" timestamp="1585791171291">
+      <screen x="67" y="27" width="1012" height="962" />
+    </state>
+    <state x="239" y="82" width="658" height="850" key="#mysql1/67.27.1012.962@67.27.1012.962" timestamp="1585791171291" />
+    <state x="659" y="91" width="658" height="850" key="#process1" timestamp="1586255229177">
+      <screen x="67" y="27" width="1853" height="980" />
+    </state>
+    <state x="659" y="91" width="658" height="850" key="#process1/67.27.1853.980@67.27.1853.980" timestamp="1586255229177" />
+    <state x="659" y="91" width="658" height="850" key="#process_queue" timestamp="1586444547542">
+      <screen x="67" y="27" width="1853" height="980" />
+    </state>
+    <state x="659" y="91" width="658" height="850" key="#process_queue/67.27.1853.980@67.27.1853.980" timestamp="1586444547542" />
+    <state x="659" y="91" width="658" height="850" key="#read_db2" timestamp="1586090770608">
+      <screen x="67" y="27" width="1853" height="980" />
+    </state>
+    <state x="659" y="91" width="658" height="850" key="#read_db2/67.27.1853.980@67.27.1853.980" timestamp="1586090770608" />
+    <state x="477" y="57" key="#test1" timestamp="1585032743496">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="57" key="#test1/0.0.1536.864@0.0.1536.864" timestamp="1585032743496" />
+    <state x="766" y="234" width="444" height="564" key="DBNavigator.DatasetColumnSetupDialog" timestamp="1585793086445">
+      <screen x="67" y="27" width="1853" height="980" />
+    </state>
+    <state x="766" y="234" width="444" height="564" key="DBNavigator.DatasetColumnSetupDialog/67.27.1853.980@67.27.1853.980" timestamp="1585793086445" />
+    <state x="624" y="373" width="824" height="564" key="DBNavigator.DatasetFilterDialog" timestamp="1585793070524">
+      <screen x="67" y="27" width="1853" height="980" />
+    </state>
+    <state x="567" y="225" width="824" height="564" key="DBNavigator.DatasetFilterDialog/67.27.1835.962@67.27.1835.962" timestamp="1585738335043" />
+    <state x="624" y="373" width="824" height="564" key="DBNavigator.DatasetFilterDialog/67.27.1853.980@67.27.1853.980" timestamp="1585793070524" />
+    <state x="691" y="204" width="577" height="605" key="DBNavigator.ExportDataDialog" timestamp="1585738518139">
+      <screen x="67" y="27" width="1835" height="962" />
+    </state>
+    <state x="691" y="204" width="577" height="605" key="DBNavigator.ExportDataDialog/67.27.1835.962@67.27.1835.962" timestamp="1585738518139" />
+    <state x="707" y="403" width="554" height="324" key="DBNavigator.IdleConnectionDialog" timestamp="1585738202939">
+      <screen x="67" y="27" width="1835" height="962" />
+    </state>
+    <state x="707" y="403" width="554" height="324" key="DBNavigator.IdleConnectionDialog/67.27.1835.962@67.27.1835.962" timestamp="1585738202939" />
+    <state x="521" y="168" width="924" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1585793100892">
+      <screen x="67" y="27" width="1853" height="980" />
+    </state>
+    <state x="517" y="165" width="924" height="684" key="DBNavigator.ProjectSettingsDialog/67.27.1835.962@67.27.1835.962" timestamp="1585735784008" />
+    <state x="521" y="168" key="DBNavigator.ProjectSettingsDialog/67.27.1853.980@67.27.1853.980" timestamp="1585793100892" />
+    <state x="385" y="234" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587129917611">
+      <screen x="67" y="27" width="890" height="962" />
+    </state>
+    <state x="550" y="186" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1586578408816" />
+    <state x="385" y="234" key="FileChooserDialogImpl/67.27.890.962@67.27.890.962" timestamp="1587129917611" />
+    <state x="394" y="234" width="424" height="484" key="FileChooserDialogImpl/67.27.914.962@67.27.914.962" timestamp="1586923087792" />
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom" timestamp="1587191534597">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1587191534597" />
+    <state width="1023" height="250" key="GridCell.Tab.0.bottom/67.27.1050.962@67.27.1050.962" timestamp="1586509338447" />
+    <state width="1146" height="251" key="GridCell.Tab.0.bottom/67.27.1173.962@67.27.1173.962" timestamp="1585791348493" />
+    <state width="1808" height="230" key="GridCell.Tab.0.bottom/67.27.1835.962@67.27.1835.962" timestamp="1587055988701" />
+    <state width="1826" height="230" key="GridCell.Tab.0.bottom/67.27.1853.980@67.27.1853.980" timestamp="1587042431593" />
+    <state width="846" height="250" key="GridCell.Tab.0.bottom/67.27.873.962@67.27.873.962" timestamp="1586508418493" />
+    <state width="868" height="250" key="GridCell.Tab.0.bottom/67.27.895.962@67.27.895.962" timestamp="1586251480092" />
+    <state width="901" height="251" key="GridCell.Tab.0.bottom/67.27.928.962@67.27.928.962" timestamp="1585793767966" />
+    <state width="932" height="250" key="GridCell.Tab.0.bottom/67.27.959.962@67.27.959.962" timestamp="1586508429578" />
+    <state width="955" height="251" key="GridCell.Tab.0.bottom/67.27.982.962@67.27.982.962" timestamp="1585792340828" />
+    <state width="968" height="302" key="GridCell.Tab.0.bottom/67.27.995.962@67.27.995.962" timestamp="1585800539101" />
+    <state width="1493" height="247" key="GridCell.Tab.0.center" timestamp="1587191534597">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1587191534597" />
+    <state width="1023" height="250" key="GridCell.Tab.0.center/67.27.1050.962@67.27.1050.962" timestamp="1586509338447" />
+    <state width="1146" height="251" key="GridCell.Tab.0.center/67.27.1173.962@67.27.1173.962" timestamp="1585791348493" />
+    <state width="1808" height="230" key="GridCell.Tab.0.center/67.27.1835.962@67.27.1835.962" timestamp="1587055988700" />
+    <state width="1826" height="230" key="GridCell.Tab.0.center/67.27.1853.980@67.27.1853.980" timestamp="1587042431593" />
+    <state width="846" height="250" key="GridCell.Tab.0.center/67.27.873.962@67.27.873.962" timestamp="1586508418492" />
+    <state width="868" height="250" key="GridCell.Tab.0.center/67.27.895.962@67.27.895.962" timestamp="1586251480091" />
+    <state width="901" height="251" key="GridCell.Tab.0.center/67.27.928.962@67.27.928.962" timestamp="1585793767963" />
+    <state width="932" height="250" key="GridCell.Tab.0.center/67.27.959.962@67.27.959.962" timestamp="1586508429577" />
+    <state width="955" height="251" key="GridCell.Tab.0.center/67.27.982.962@67.27.982.962" timestamp="1585792340828" />
+    <state width="968" height="302" key="GridCell.Tab.0.center/67.27.995.962@67.27.995.962" timestamp="1585800539101" />
+    <state width="1493" height="247" key="GridCell.Tab.0.left" timestamp="1587191534597">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1587191534597" />
+    <state width="1023" height="250" key="GridCell.Tab.0.left/67.27.1050.962@67.27.1050.962" timestamp="1586509338446" />
+    <state width="1146" height="251" key="GridCell.Tab.0.left/67.27.1173.962@67.27.1173.962" timestamp="1585791348493" />
+    <state width="1808" height="230" key="GridCell.Tab.0.left/67.27.1835.962@67.27.1835.962" timestamp="1587055988699" />
+    <state width="1826" height="230" key="GridCell.Tab.0.left/67.27.1853.980@67.27.1853.980" timestamp="1587042431592" />
+    <state width="846" height="250" key="GridCell.Tab.0.left/67.27.873.962@67.27.873.962" timestamp="1586508418492" />
+    <state width="868" height="250" key="GridCell.Tab.0.left/67.27.895.962@67.27.895.962" timestamp="1586251480091" />
+    <state width="901" height="251" key="GridCell.Tab.0.left/67.27.928.962@67.27.928.962" timestamp="1585793767960" />
+    <state width="932" height="250" key="GridCell.Tab.0.left/67.27.959.962@67.27.959.962" timestamp="1586508429577" />
+    <state width="955" height="251" key="GridCell.Tab.0.left/67.27.982.962@67.27.982.962" timestamp="1585792340827" />
+    <state width="968" height="302" key="GridCell.Tab.0.left/67.27.995.962@67.27.995.962" timestamp="1585800539101" />
+    <state width="1493" height="247" key="GridCell.Tab.0.right" timestamp="1587191534597">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="247" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1587191534597" />
+    <state width="1023" height="250" key="GridCell.Tab.0.right/67.27.1050.962@67.27.1050.962" timestamp="1586509338447" />
+    <state width="1146" height="251" key="GridCell.Tab.0.right/67.27.1173.962@67.27.1173.962" timestamp="1585791348493" />
+    <state width="1808" height="230" key="GridCell.Tab.0.right/67.27.1835.962@67.27.1835.962" timestamp="1587055988700" />
+    <state width="1826" height="230" key="GridCell.Tab.0.right/67.27.1853.980@67.27.1853.980" timestamp="1587042431593" />
+    <state width="846" height="250" key="GridCell.Tab.0.right/67.27.873.962@67.27.873.962" timestamp="1586508418492" />
+    <state width="868" height="250" key="GridCell.Tab.0.right/67.27.895.962@67.27.895.962" timestamp="1586251480091" />
+    <state width="901" height="251" key="GridCell.Tab.0.right/67.27.928.962@67.27.928.962" timestamp="1585793767966" />
+    <state width="932" height="250" key="GridCell.Tab.0.right/67.27.959.962@67.27.959.962" timestamp="1586508429577" />
+    <state width="955" height="251" key="GridCell.Tab.0.right/67.27.982.962@67.27.982.962" timestamp="1585792340828" />
+    <state width="968" height="302" key="GridCell.Tab.0.right/67.27.995.962@67.27.995.962" timestamp="1585800539101" />
+    <state width="1478" height="166" key="GridCell.Tab.1.bottom" timestamp="1586581549352">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="166" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1586581549352" />
+    <state width="1826" height="309" key="GridCell.Tab.1.bottom/67.27.1853.980@67.27.1853.980" timestamp="1585807922025" />
+    <state width="968" height="302" key="GridCell.Tab.1.bottom/67.27.995.962@67.27.995.962" timestamp="1585800539104" />
+    <state width="1478" height="166" key="GridCell.Tab.1.center" timestamp="1586581549352">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="166" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1586581549352" />
+    <state width="1826" height="309" key="GridCell.Tab.1.center/67.27.1853.980@67.27.1853.980" timestamp="1585807922024" />
+    <state width="968" height="302" key="GridCell.Tab.1.center/67.27.995.962@67.27.995.962" timestamp="1585800539102" />
+    <state width="1478" height="166" key="GridCell.Tab.1.left" timestamp="1586581549352">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="166" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1586581549352" />
+    <state width="1826" height="309" key="GridCell.Tab.1.left/67.27.1853.980@67.27.1853.980" timestamp="1585807922024" />
+    <state width="968" height="302" key="GridCell.Tab.1.left/67.27.995.962@67.27.995.962" timestamp="1585800539102" />
+    <state width="1478" height="166" key="GridCell.Tab.1.right" timestamp="1586581549352">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="166" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1586581549352" />
+    <state width="1826" height="309" key="GridCell.Tab.1.right/67.27.1853.980@67.27.1853.980" timestamp="1585807922024" />
+    <state width="968" height="302" key="GridCell.Tab.1.right/67.27.995.962@67.27.995.962" timestamp="1585800539103" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1585735166916">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.864@0.0.1536.864" timestamp="1585735166916" />
+    <state x="117" y="108" key="SettingsEditor" timestamp="1586853320326">
+      <screen x="67" y="27" width="1835" height="962" />
+    </state>
+    <state x="507" y="73" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1586578422285" />
+    <state x="67" y="108" key="SettingsEditor/67.27.1012.962@67.27.1012.962" timestamp="1585791192722" />
+    <state x="95" y="107" key="SettingsEditor/67.27.1065.943@67.27.1065.943" timestamp="1586421826111" />
+    <state x="96" y="108" key="SettingsEditor/67.27.1066.962@67.27.1066.962" timestamp="1585834610841" />
+    <state x="67" y="108" key="SettingsEditor/67.27.1070.962@67.27.1070.962" timestamp="1585791236358" />
+    <state x="117" y="108" key="SettingsEditor/67.27.1835.962@67.27.1835.962" timestamp="1586853320326" />
+    <state x="679" y="110" key="SettingsEditor/67.27.1853.980@67.27.1853.980" timestamp="1586565667983" />
+    <state x="67" y="108" key="SettingsEditor/67.27.873.962@67.27.873.962" timestamp="1586507819036" />
+    <state x="67" y="108" key="SettingsEditor/67.27.895.962@67.27.895.962" timestamp="1586246260224" />
+    <state x="67" y="108" key="SettingsEditor/67.27.949.962@67.27.949.962" timestamp="1585900679093" />
+    <state width="200" height="160" key="TextEditor.dname" timestamp="1585735990258">
+      <screen x="67" y="27" width="1835" height="962" />
+    </state>
+    <state width="200" height="160" key="TextEditor.dname/67.27.1835.962@67.27.1835.962" timestamp="1585735990258" />
+    <state width="200" height="160" key="TextEditor.sex" timestamp="1585738439598">
+      <screen x="67" y="27" width="1835" height="962" />
+    </state>
+    <state width="200" height="160" key="TextEditor.sex/67.27.1835.962@67.27.1835.962" timestamp="1585738439598" />
+    <state x="29" y="291" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1585735153691">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="29" y="291" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1536.864@0.0.1536.864" timestamp="1585735153691" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1587190796107">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1587190796107" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585209796965">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1536.864@0.0.1536.864" timestamp="1585209796965" />
+    <state x="410" y="229" width="672" height="740" key="search.everywhere.popup" timestamp="1586422177980">
+      <screen x="67" y="27" width="1221" height="943" />
+    </state>
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1586311416444" />
+    <state x="410" y="229" width="672" height="740" key="search.everywhere.popup/67.27.1221.943@67.27.1221.943" timestamp="1586422177980" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二阶段/read.db.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二阶段/day11/exercise_1_server.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/第二阶段/day13/zb.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/$text.coverage" NAME="text Coverage Results" MODIFIED="1587190864559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
